@@ -1,3 +1,45 @@
 ---
-title: "Untitled"
+title: "Materiais"
 ---
+
+## Instrumentos de recolha de dados
+
+### CRF — Case Report Form
+
+O CRF (Case Report Form) é o documento padronizado utilizado para registar os dados de cada participante ao longo do ensaio.
+
+| Campo                   | Descrição                              |
+|-------------------------|----------------------------------------|
+| patient_id              | Identificador único do participante    |
+| grupo                   | Grupo alocado (intervenção / controlo) |
+| idade                   | Idade em anos                          |
+| sexo                    | Sexo (M / F)                           |
+| hba1c_baseline          | HbA1c no momento inicial (%)           |
+| hba1c_6meses            | HbA1c aos 6 meses (%)                  |
+| glicemia_jejum_baseline | Glicemia em jejum inicial (mg/dL)      |
+| glicemia_jejum_6meses   | Glicemia em jejum aos 6 meses (mg/dL)  |
+| peso_baseline           | Peso inicial (kg)                      |
+| peso_6meses             | Peso aos 6 meses (kg)                  |
+| des_sf                  | Desempenho funcional (escala SF)       |
+| satisfacao              | Satisfação com a intervenção           |
+
+### Formulário REDCap
+
+O REDCap (Research Electronic Data Capture) foi utilizado para recolha eletrónica dos dados clínicos. O formulário inclui:
+
+-   Secção A: Dados demográficos e identificação
+-   Secção B: Medições clínicas (HbA1c, glicemia, peso)
+-   Secção C: Escalas de desempenho e satisfação
+
+### Aplicação móvel — GlucoCheck App
+
+A intervenção digital consiste numa aplicação móvel com as seguintes funcionalidades:
+
+-   Registo diário de glicemia capilar
+-   Alertas automáticos para valores fora do intervalo alvo
+-   Relatório semanal enviado ao médico assistente
+-   Módulo educativo sobre alimentação e exercício
+
+## Consentimento informado
+
+Todos os participantes assinaram o consentimento informado antes da aleatorização, garantindo a confidencialidade dos dados e o direito de abandono a qualquer momento.

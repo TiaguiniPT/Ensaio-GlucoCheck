@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "Materiais.html",
+    "href": "Materiais.html",
+    "title": "Materiais",
+    "section": "",
+    "text": "O CRF (Case Report Form) é o documento padronizado utilizado para registar os dados de cada participante ao longo do ensaio.\n\n\n\nCampo\nDescrição\n\n\n\n\npatient_id\nIdentificador único do participante\n\n\ngrupo\nGrupo alocado (intervenção / controlo)\n\n\nidade\nIdade em anos\n\n\nsexo\nSexo (M / F)\n\n\nhba1c_baseline\nHbA1c no momento inicial (%)\n\n\nhba1c_6meses\nHbA1c aos 6 meses (%)\n\n\nglicemia_jejum_baseline\nGlicemia em jejum inicial (mg/dL)\n\n\nglicemia_jejum_6meses\nGlicemia em jejum aos 6 meses (mg/dL)\n\n\npeso_baseline\nPeso inicial (kg)\n\n\npeso_6meses\nPeso aos 6 meses (kg)\n\n\ndes_sf\nDesempenho funcional (escala SF)\n\n\nsatisfacao\nSatisfação com a intervenção\n\n\n\n\n\n\nO REDCap (Research Electronic Data Capture) foi utilizado para recolha eletrónica dos dados clínicos. O formulário inclui:\n\nSecção A: Dados demográficos e identificação\nSecção B: Medições clínicas (HbA1c, glicemia, peso)\nSecção C: Escalas de desempenho e satisfação\n\n\n\n\nA intervenção digital consiste numa aplicação móvel com as seguintes funcionalidades:\n\nRegisto diário de glicemia capilar\nAlertas automáticos para valores fora do intervalo alvo\nRelatório semanal enviado ao médico assistente\nMódulo educativo sobre alimentação e exercício"
+  },
+  {
+    "objectID": "Materiais.html#instrumentos-de-recolha-de-dados",
+    "href": "Materiais.html#instrumentos-de-recolha-de-dados",
+    "title": "Materiais",
+    "section": "",
+    "text": "O CRF (Case Report Form) é o documento padronizado utilizado para registar os dados de cada participante ao longo do ensaio.\n\n\n\nCampo\nDescrição\n\n\n\n\npatient_id\nIdentificador único do participante\n\n\ngrupo\nGrupo alocado (intervenção / controlo)\n\n\nidade\nIdade em anos\n\n\nsexo\nSexo (M / F)\n\n\nhba1c_baseline\nHbA1c no momento inicial (%)\n\n\nhba1c_6meses\nHbA1c aos 6 meses (%)\n\n\nglicemia_jejum_baseline\nGlicemia em jejum inicial (mg/dL)\n\n\nglicemia_jejum_6meses\nGlicemia em jejum aos 6 meses (mg/dL)\n\n\npeso_baseline\nPeso inicial (kg)\n\n\npeso_6meses\nPeso aos 6 meses (kg)\n\n\ndes_sf\nDesempenho funcional (escala SF)\n\n\nsatisfacao\nSatisfação com a intervenção\n\n\n\n\n\n\nO REDCap (Research Electronic Data Capture) foi utilizado para recolha eletrónica dos dados clínicos. O formulário inclui:\n\nSecção A: Dados demográficos e identificação\nSecção B: Medições clínicas (HbA1c, glicemia, peso)\nSecção C: Escalas de desempenho e satisfação\n\n\n\n\nA intervenção digital consiste numa aplicação móvel com as seguintes funcionalidades:\n\nRegisto diário de glicemia capilar\nAlertas automáticos para valores fora do intervalo alvo\nRelatório semanal enviado ao médico assistente\nMódulo educativo sobre alimentação e exercício"
+  },
+  {
+    "objectID": "Materiais.html#consentimento-informado",
+    "href": "Materiais.html#consentimento-informado",
+    "title": "Materiais",
+    "section": "Consentimento informado",
+    "text": "Consentimento informado\nTodos os participantes assinaram o consentimento informado antes da aleatorização, garantindo a confidencialidade dos dados e o direito de abandono a qualquer momento."
+  },
+  {
+    "objectID": "Equipa.html",
+    "href": "Equipa.html",
+    "title": "Equipa",
+    "section": "",
+    "text": "Nome\nPapel\n\n\n\n\n[Nome 1]\nInvestigador principal e coordenação\n\n\n[Nome 2]\nAnálise estatística e visualização\n\n\n[Nome 3]\nRedação e revisão do protocolo\n\n\n[Nome 4]\nGestão de dados e REDCap"
+  },
+  {
+    "objectID": "Equipa.html#membros-do-grupo",
+    "href": "Equipa.html#membros-do-grupo",
+    "title": "Equipa",
+    "section": "",
+    "text": "Nome\nPapel\n\n\n\n\n[Nome 1]\nInvestigador principal e coordenação\n\n\n[Nome 2]\nAnálise estatística e visualização\n\n\n[Nome 3]\nRedação e revisão do protocolo\n\n\n[Nome 4]\nGestão de dados e REDCap"
+  },
+  {
+    "objectID": "Equipa.html#instituição",
+    "href": "Equipa.html#instituição",
+    "title": "Equipa",
+    "section": "Instituição",
+    "text": "Instituição\nFaculdade de Economia do Porto\nUnidade Curricular: Ferramentas de Programação\nAno letivo: 2024/2025"
+  },
+  {
+    "objectID": "Equipa.html#declaração-de-uso-de-ia",
+    "href": "Equipa.html#declaração-de-uso-de-ia",
+    "title": "Equipa",
+    "section": "Declaração de uso de IA",
+    "text": "Declaração de uso de IA\n[Indica aqui se usaste ou não IA, e de que forma — é obrigatório mesmo que não tenhas usado]"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -40,5 +89,68 @@
     "title": "Ensaio GlucoCheck",
     "section": "Grupo",
     "text": "Grupo\n\n\n\nNome\nPapel\n\n\n\n\n[Nome 1]\nInvestigador principal\n\n\n[Nome 2]\nAnálise de dados\n\n\n[Nome 3]\nRedação"
+  },
+  {
+    "objectID": "Protocolos.html",
+    "href": "Protocolos.html",
+    "title": "Protocolo",
+    "section": "",
+    "text": "GlucoCheck: Eficácia de uma intervenção digital na redução da HbA1c em doentes com diabetes tipo 2 — ensaio clínico aleatorizado."
+  },
+  {
+    "objectID": "Protocolos.html#título-do-ensaio",
+    "href": "Protocolos.html#título-do-ensaio",
+    "title": "Protocolo",
+    "section": "",
+    "text": "GlucoCheck: Eficácia de uma intervenção digital na redução da HbA1c em doentes com diabetes tipo 2 — ensaio clínico aleatorizado."
+  },
+  {
+    "objectID": "Protocolos.html#objetivos",
+    "href": "Protocolos.html#objetivos",
+    "title": "Protocolo",
+    "section": "Objetivos",
+    "text": "Objetivos\nPrimário: Avaliar a redução da HbA1c aos 6 meses num grupo submetido a monitorização digital contínua de glicose comparativamente ao grupo de controlo.\nSecundários:\n\nRedução da glicemia em jejum aos 6 meses\nRedução do peso corporal aos 6 meses\nMelhoria do desempenho funcional (escala SF)\nNível de satisfação com a intervenção"
+  },
+  {
+    "objectID": "Protocolos.html#população-e-elegibilidade",
+    "href": "Protocolos.html#população-e-elegibilidade",
+    "title": "Protocolo",
+    "section": "População e elegibilidade",
+    "text": "População e elegibilidade\nCritérios de inclusão:\n\nDiagnóstico confirmado de diabetes tipo 2\nHbA1c ≥ 7.5% no baseline\nIdade ≥ 18 anos\nPosse de smartphone com acesso à internet\n\nCritérios de exclusão:\n\nGravidez ou amamentação\nDoença renal crónica grave (estádio 4 ou 5)\nParticipação simultânea noutro ensaio clínico"
+  },
+  {
+    "objectID": "Protocolos.html#desenho-do-estudo",
+    "href": "Protocolos.html#desenho-do-estudo",
+    "title": "Protocolo",
+    "section": "Desenho do estudo",
+    "text": "Desenho do estudo\nEnsaio clínico aleatorizado, controlado, com dois braços paralelos, com follow-up de 6 meses."
+  },
+  {
+    "objectID": "Protocolos.html#aleatorização",
+    "href": "Protocolos.html#aleatorização",
+    "title": "Protocolo",
+    "section": "Aleatorização",
+    "text": "Aleatorização\n30 participantes alocados aleatoriamente numa proporção 1:1:\n\n15 no grupo intervenção\n15 no grupo controlo"
+  },
+  {
+    "objectID": "Protocolos.html#intervenção",
+    "href": "Protocolos.html#intervenção",
+    "title": "Protocolo",
+    "section": "Intervenção",
+    "text": "Intervenção\nGrupo intervenção: utilização diária de uma aplicação móvel de monitorização contínua de glicose com alertas personalizados, relatórios semanais e recomendações automáticas de estilo de vida.\nGrupo controlo: cuidados clínicos habituais sem acesso à aplicação."
+  },
+  {
+    "objectID": "Protocolos.html#avaliações",
+    "href": "Protocolos.html#avaliações",
+    "title": "Protocolo",
+    "section": "Avaliações",
+    "text": "Avaliações\n\n\n\nMomento\nAvaliações realizadas\n\n\n\n\nBaseline (semana 0)\nHbA1c, glicemia jejum, peso, SF, satisfação\n\n\nFollow-up (6 meses)\nHbA1c, glicemia jejum, peso, SF, satisfação"
+  },
+  {
+    "objectID": "Protocolos.html#outcome-primário",
+    "href": "Protocolos.html#outcome-primário",
+    "title": "Protocolo",
+    "section": "Outcome primário",
+    "text": "Outcome primário\nVariação da HbA1c entre o baseline e os 6 meses, comparada entre os dois grupos."
   }
 ]

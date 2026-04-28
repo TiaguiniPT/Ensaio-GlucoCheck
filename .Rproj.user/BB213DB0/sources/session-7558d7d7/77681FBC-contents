@@ -1,3 +1,61 @@
 ---
-title: "Untitled"
+title: "Protocolo"
 ---
+
+## Título do ensaio
+
+GlucoCheck: Eficácia de uma intervenção digital na redução da HbA1c em doentes com diabetes tipo 2 — ensaio clínico aleatorizado.
+
+## Objetivos
+
+**Primário:** Avaliar a redução da HbA1c aos 6 meses num grupo submetido a monitorização digital contínua de glicose comparativamente ao grupo de controlo.
+
+**Secundários:**
+
+-   Redução da glicemia em jejum aos 6 meses
+-   Redução do peso corporal aos 6 meses
+-   Melhoria do desempenho funcional (escala SF)
+-   Nível de satisfação com a intervenção
+
+## População e elegibilidade
+
+**Critérios de inclusão:**
+
+-   Diagnóstico confirmado de diabetes tipo 2
+-   HbA1c ≥ 7.5% no baseline
+-   Idade ≥ 18 anos
+-   Posse de smartphone com acesso à internet
+
+**Critérios de exclusão:**
+
+-   Gravidez ou amamentação
+-   Doença renal crónica grave (estádio 4 ou 5)
+-   Participação simultânea noutro ensaio clínico
+
+## Desenho do estudo
+
+Ensaio clínico aleatorizado, controlado, com dois braços paralelos, com follow-up de 6 meses.
+
+## Aleatorização
+
+30 participantes alocados aleatoriamente numa proporção 1:1:
+
+-   **15** no grupo intervenção
+-   **15** no grupo controlo
+
+## Intervenção
+
+**Grupo intervenção:** utilização diária de uma aplicação móvel de monitorização contínua de glicose com alertas personalizados, relatórios semanais e recomendações automáticas de estilo de vida.
+
+**Grupo controlo:** cuidados clínicos habituais sem acesso à aplicação.
+
+## Avaliações
+
+| Momento             | Avaliações realizadas                       |
+|---------------------|---------------------------------------------|
+| Baseline (semana 0) | HbA1c, glicemia jejum, peso, SF, satisfação |
+| Follow-up (6 meses) | HbA1c, glicemia jejum, peso, SF, satisfação |
+
+## Outcome primário
+
+Variação da HbA1c entre o baseline e os 6 meses, comparada entre os dois grupos.

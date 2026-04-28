@@ -3,7 +3,7 @@
     "path": "C:/Users/Jose Duarte/Desktop/2º semestre/FEP/Fp_Project/Equipa.qmd",
     "project_path": "Equipa.qmd",
     "type": "quarto_markdown",
-    "hash": "1403746640",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1777376399956.0,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "1,0",
+        "cursorPosition": "4,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "10:0"
+        "rmdVisualModeLocation": "76:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1777376416,
+    "lastKnownWriteTime": 1777386455,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1777376416830,
+    "last_content_update": 1777386455129,
     "read_only": false,
     "read_only_alternatives": []
 }
