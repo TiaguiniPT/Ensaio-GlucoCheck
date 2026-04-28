@@ -1,21 +1,18 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Fp_Project"
+  title: "Ensaio GlucoCheck"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-editor: visual
-
+        text: Início
+      - href: Protocolos.qmd
+        text: Protocolo
+      - href: Materiais.qmd
+        text: Materiais
+      - href: Resultados.qmd
+        text: Resultados
+      - href: Equipa.qmd
+        text: Equipa

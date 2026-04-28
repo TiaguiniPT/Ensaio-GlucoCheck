@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "[Nome do vosso ensaio]"
+  title: "Ensaio GlucoCheck"
   navbar:
     left:
       - href: index.qmd
         text: Início
-      - href: protocolo.qmd
+      - href: Protocolos.qmd
         text: Protocolo
-      - href: materiais.qmd
+      - href: Materiais.qmd
         text: Materiais
-      - href: resultados.qmd
+      - href: Resultados.qmd
         text: Resultados
-      - href: equipa.qmd
+      - href: Equipa.qmd
         text: Equipa
