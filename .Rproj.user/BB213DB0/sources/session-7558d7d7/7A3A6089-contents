@@ -1,11 +1,24 @@
 ---
-title: "Fp_Project"
+title: "Ensaio GlucoCheck"
 ---
 
-This is a Quarto website.
+## Sobre o ensaio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+O **GlucoCheck** é um ensaio clínico aleatorizado que avalia o impacto de uma intervenção digital na gestão da diabetes tipo 2.
 
-```{r}
-1 + 1
-```
+## Objetivo primário
+
+Avaliar a redução da **HbA1c aos 6 meses** em doentes com diabetes tipo 2 submetidos a uma intervenção digital de monitorização contínua de glicose, comparativamente ao grupo de controlo.
+
+## Participantes
+
+-   **30 participantes** aleatorizados (15 intervenção, 15 controlo)
+-   Critérios de inclusão: diagnóstico de diabetes tipo 2, HbA1c ≥ 7.5%
+
+## Grupo
+
+| Nome       | Papel                  |
+|------------|------------------------|
+| \[Nome 1\] | Investigador principal |
+| \[Nome 2\] | Análise de dados       |
+| \[Nome 3\] | Redação                |

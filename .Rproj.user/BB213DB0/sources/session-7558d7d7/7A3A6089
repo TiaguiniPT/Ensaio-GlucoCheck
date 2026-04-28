@@ -3,7 +3,7 @@
     "path": "C:/Users/Jose Duarte/Desktop/2º semestre/FEP/Fp_Project/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2088342425",
     "contents": "",
     "dirty": false,
     "created": 1777376356642.0,
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "344:125.5999984741211",
+        "cursorPosition": "17,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1777376352,
+    "lastKnownWriteTime": 1777384657,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1777376352,
+    "last_content_update": 1777384657771,
     "read_only": false,
     "read_only_alternatives": []
 }
