@@ -1,3 +1,21 @@
 ---
-title: "Untitled"
+title: "Resultados"
 ---
+
+## Características basais
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+source(here::here("scripts/analise.R"))
+tabela1
+```
+
+## Outcome primário — HbA1c aos 6 meses
+
+```{r}
+#| echo: false
+#| warning: false
+grafico_outcome
+```
