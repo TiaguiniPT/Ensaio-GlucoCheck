@@ -9,8 +9,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Fp_Project",
+    "title": "Ensaio GlucoCheck",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "O GlucoCheck é um ensaio clínico aleatorizado que avalia o impacto de uma intervenção digital na gestão da diabetes tipo 2."
+  },
+  {
+    "objectID": "index.html#sobre-o-ensaio",
+    "href": "index.html#sobre-o-ensaio",
+    "title": "Ensaio GlucoCheck",
+    "section": "",
+    "text": "O GlucoCheck é um ensaio clínico aleatorizado que avalia o impacto de uma intervenção digital na gestão da diabetes tipo 2."
+  },
+  {
+    "objectID": "index.html#objetivo-primário",
+    "href": "index.html#objetivo-primário",
+    "title": "Ensaio GlucoCheck",
+    "section": "Objetivo primário",
+    "text": "Objetivo primário\nAvaliar a redução da HbA1c aos 6 meses em doentes com diabetes tipo 2 submetidos a uma intervenção digital de monitorização contínua de glicose, comparativamente ao grupo de controlo."
+  },
+  {
+    "objectID": "index.html#participantes",
+    "href": "index.html#participantes",
+    "title": "Ensaio GlucoCheck",
+    "section": "Participantes",
+    "text": "Participantes\n\n30 participantes aleatorizados (15 intervenção, 15 controlo)\nCritérios de inclusão: diagnóstico de diabetes tipo 2, HbA1c ≥ 7.5%"
+  },
+  {
+    "objectID": "index.html#grupo",
+    "href": "index.html#grupo",
+    "title": "Ensaio GlucoCheck",
+    "section": "Grupo",
+    "text": "Grupo\n\n\n\nNome\nPapel\n\n\n\n\n[Nome 1]\nInvestigador principal\n\n\n[Nome 2]\nAnálise de dados\n\n\n[Nome 3]\nRedação"
   }
 ]
